@@ -1104,7 +1104,7 @@
 
 #
 "to unload filament"
-"Filament entladen"
+"Filament entlad."
 
 #MSG_UNLOAD_FILAMENT c=17
 "Unload filament"
